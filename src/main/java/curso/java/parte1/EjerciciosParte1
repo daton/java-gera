@@ -1,0 +1,6 @@
+1. Crear una clase libro que tega como atributo numeroDeCapitulos de tipo entero
+    tambien agragar un dos metodos uno que se llame setCapitulo que ajuste el numero de
+    capitulo y otro que se llame getCapitulo que obtenga el numero de capitulo.
+2. Crear una clase que se llame Dado, y que solo contenga un metodo  que se llame
+    tirar dado y que nos regrese un numero aleatorio del 1 al 6 simulando el
+    resultado de tirar un dado
