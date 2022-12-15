@@ -4,3 +4,6 @@
 2. Crear una clase que se llame Dado, y que solo contenga un metodo  que se llame
     tirar dado y que nos regrese un numero aleatorio del 1 al 6 simulando el
     resultado de tirar un dado
+
+3. Encapsula la clase Human, agrega 3 constructores y encapsulala. Para el caso de los constructores
+   aplica el principio DRY(Dont Repeat Yourself) para no repetir codigo y reutilizarlo y no DUPLICARLO.
